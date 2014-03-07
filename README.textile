@@ -1,5 +1,7 @@
 h1. jnm_recent_comments_unique
 
+Textpattern plugin.
+
 <code><txp:jnm_recent_comments_unique /></code> is similar to txp:recent_comments. It displays the latest comments with the following changes:
 
 * It only displays one link per article with the number of comments enclosed in parenthesis.
