@@ -1,11 +1,11 @@
-*Description:*
+h1. jnm_recent_comments_unique
 
 <code><txp:jnm_recent_comments_unique /></code> is similar to txp:recent_comments. It displays the latest comments with the following changes:
 
 * It only displays one link per article with the number of comments enclosed in parenthesis.
 * It display the names of latest commenters (optional)
 
-*Options:*
+h2. Options
 
 You can use the standard txp:recent_comments options (label, break, wraptag and limit).
 You can also use the following options:
@@ -22,7 +22,7 @@ You can also use the following options:
 * linktoarticle = 'y'=article link links to article. 'n'=article link links to latest comment. Default: 'n'
 * commentscount = Set to 'n' to not show comments count. Default: 'y'
 
-*Examples:*
+h2. Examples
 
 * <code><txp:jnm_recent_comments_unique break="li" /></code>
      
@@ -32,9 +32,15 @@ Display the latest commented articles in an unordered list.
 
 Display the latest commented articles with as much as two commenters. The commenters names are enclosed in a <code><div class="commenters"></code> tag.
 
-*Version 0.5.1*
+h2. Screenshots
 
-*History:*
+p. !./raw/master/img/example1.gif!
+
+p. !./raw/master/img/example2.gif!
+
+h2. Version 0.5.2
+
+h2. History
 
 *0.5.2*
 * Display only published articles.
@@ -63,5 +69,6 @@ Display the latest commented articles with as much as two commenters. The commen
 
 * Initial Realease
 
-*INFO:*
+h2. INFO
+
 * "Discussion Thread":http://forum.textpattern.com/viewtopic.php?id=11748
