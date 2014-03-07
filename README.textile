@@ -9,7 +9,7 @@ h2. Version 0.5.2
 
 h2. INFO
 
-* Download: "jnm_recent_comments_unique_0_5_2.txt":releases/jnm_recent_comments_unique_v_0_5_2.txt (version 0.5.2)
+* Download: "jnm_recent_comments_unique_0_5_2.txt":releases/jnm_recent_comments_unique_v_0_5_2.txt?raw=true (version 0.5.2)
 * "Discussion Thread":http://forum.textpattern.com/viewtopic.php?id=11748
 
 h2. Options
