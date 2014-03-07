@@ -1,0 +1,67 @@
+*Description:*
+
+<code><txp:jnm_recent_comments_unique /></code> is similar to txp:recent_comments. It displays the latest comments with the following changes:
+
+* It only displays one link per article with the number of comments enclosed in parenthesis.
+* It display the names of latest commenters (optional)
+
+*Options:*
+
+You can use the standard txp:recent_comments options (label, break, wraptag and limit).
+You can also use the following options:
+
+* showcomments = Set to ‘y’ to display the commenters names. Default: “n”
+* commbreak = String to separate the article’s link from the commenters names. Default: ”<code><br/></code>”
+* commseparator = String to separate commenters names. Default: ”, ”
+* commlimit = Display as much as this commenters. Default: 3
+* commclass = If included, the commenters names are enclosed with a div with this class attribute.
+* section = Restrict comments by this section. You can specify various sections separated by ”,”.
+* autosection = Set to ‘y’ to autoselect comments based on the section being displayed. Default: “n”
+* category = Restrict comments by this category. You can specify various categories separated by ",".
+* autocategory = Set to 'y' to autoselect comments based on the category being displayed. Not valid inside an article page. Default: "n"
+* linktoarticle = 'y'=article link links to article. 'n'=article link links to latest comment. Default: 'n'
+* commentscount = Set to 'n' to not show comments count. Default: 'y'
+
+*Examples:*
+
+* <code><txp:jnm_recent_comments_unique break="li" /></code>
+     
+Display the latest commented articles in an unordered list.
+
+* <code><txp:jnm_recent_comments_unique break="li" showcomments="y" commlimit="2" commclass="commenters"/></code>
+
+Display the latest commented articles with as much as two commenters. The commenters names are enclosed in a <code><div class="commenters"></code> tag.
+
+*Version 0.5.1*
+
+*History:*
+
+*0.5.2*
+* Display only published articles.
+
+*0.5.1*
+* Eliminated some warnings in debug mode.
+
+*0.5*
+* Added "category" and "autocategory" parameters to restrict comment by category.
+* Added "linktoarticle" and "commentscount" parameter.
+
+*0.4*
+
+* Multi-section support.
+
+*0.3*
+
+* Added “section” and “autosection” parameters to restrict comments by section.
+
+*0.2*
+
+* Solved little bug that sometimes displays entries in bad order.
+* Article link now links directly to the latest comment.
+
+*0.1*
+
+* Initial Realease
+
+*INFO:*
+* "Discussion Thread":http://forum.textpattern.com/viewtopic.php?id=11748
