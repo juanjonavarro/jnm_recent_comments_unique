@@ -34,9 +34,9 @@ Display the latest commented articles with as much as two commenters. The commen
 
 h2. Screenshots
 
-p. !./raw/master/img/example1.gif!
+p. !img/example1.gif!
 
-p. !./raw/master/img/example2.gif!
+p. !img/example2.gif!
 
 h2. Version 0.5.2
 
