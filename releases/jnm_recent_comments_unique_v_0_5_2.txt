@@ -1,0 +1,51 @@
+# jnm_recent_comments_unique v0.5.2
+# List latest comments and commenters.
+# Juanjo Navarro
+# http://www.juanjonavarro.com/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+H4sIAAAAAAAAC81Ze2/bNhD/u/oUHGdUVirIjzSPypaHbkm3DFkypBm2oSgMWqJjtbLkklJd
+o8t33/Glh+00cbdgW7FaIu99xx9PV+L3uv5n7h/5+CNlPM5SPOD+gY+73oHXF8+HPiZFPsuY
+eOk99/HPBUnfZeiCfCSMZXK1a2jGBYvFSv+Fj2d5vvA7neVy6b2TLKni8MJs3pFsPR9HlIcs
+XuRa8T5oO495jhKSU/gB0jlNc45IGpkXMNMTtGBKvlpQPIj9rnpNyZxK7SDlXTofMxoC/dgI
+GRdp/KGgmndGk4Uk7h+C88NZb3RS2eIPO7BgWcPFaJh/Wvh3S0OdEYo54vE8TghDeYYE/Rqt
+h85yFMV8kZAVR/mMbvi3jPOZ3JhmSZIt4/QGhTOS3lAOpizAkifDIhlZT54Mk3gEwrI0WVUS
+sxQkxul7tKAMEZbHYUIrkWkxn8B6Nq3U0TRMMk4jFKdoQRiszSiPuTfsgPhKi1agpEBwuRDS
+NB2ygdqZDBpJHM0/7AhjRfQu5Y5xAhb+zAoUkhQVnEqxPIfUEhZtCxtSckFBQiY0cdGEUfLe
+RUtGFjm5kUWRQOBzxxtOGGTCMtJJwrNSRRXSrGFNPaR8li1LtQF6TXORyqffHvd7h4OV/D0a
+iKV6SGohkNHx0AmdkiLJfcnZ7w5S+dsb1OMquKQjQk/OhF0gl1PIA0RWCtYp1Gq5yu2UZfMH
+qoVodEbmeU21VpSx7ervF+6iOyTLVIDUEx0iwtG8CGfiN5/BGamd30ro/rqUMCFcpOBsCsUZ
+JkVEI3er2xAlWhWyrHYC6floCl9olLJIDm5Oipw2ypvTUBQDaLqCcmZxWDuNk5Xi1zQeMnXF
+FzSMpysEQBZnRUnAy/hFgtcESie/oRZwMqtU311nii6hDbOI8BQY5cHRQiZUpFCXJY0eWINg
+6k3GVl/03hDd7b6miOmOAaip/wcRKKVshOAiy8HGJBb4xuMIDlRawuKC3NCHBUmcujwzfMG6
+jYHZkadT/MWl2WrVM+Tpl8mbaLpmWI19/ZiIcIRZkeYbMUxrMUwhEALaqghKnk01q6aaCsBP
+P5H5IoFrqAGX912KEt8CnMQYUFlj80kNOdfukMhEjYsLSdwOacYiyqjAd5436mcH1XVQD/AK
+oxKlAtxXbxIhAlxhC97RXoU7NaRbZg2gu95EriZwCYfRUOCWsKVhygjBLefVU1Jeoy9lu+Wj
+IRzeLL0ZNZuyYUcvC3rd74RZpJqj4x70O9a0SBV+3B3KdguQkzvWZwsh+ilnJMzbyUtYaoMO
+smrDMkK2vJpt8RiMkG27alVmwaxOmF7VF7fdpJUZMbS9rl6tJ8+W9KlhKG9QWyzLy66+Vd5w
+is1F9U2tDDb2a6uyDOyGVRpfm4s19F6zqQEW6/ZqoNqUtX2ncb7V1qrcU5aqYI3Hr367+OH6
+7PJiPIZtx1UZcwYWvLWqawYyWRkeyKPw9Clq/Xh++f3L89dvbG6//SawI4UJtoO+a+4hvxI2
+EJJr+K1Em4UgAEub/KHiNxTKtA/AiTW4q/4zhlt+Tj61wywF0jbEQkTBA1APCw4Y7jhwCHku
+Fl15igw5EC0yDmfSkaUcgR5XoVx7z0FpCXxYxs/85+FXV5e/IOz9+uoPDwOkjLUmeVg3iM9P
+X12jny/PLkoOOBALCDZl0ECDenR5gZQt2htwUKx7Zycbwn7/6fTqFH2MeTxJaNCTbSy0wXkh
+0a/93D1wsAhzPIXo6rhDeiCun6WkWmLhmMPhBZgKaRu78Ocv7JptZ/BFagTU2EXr1B+8AEuL
+pPWGlyXxe4ps7EUZhzTMSrscD9vS2FtjsEl0w+JawWw12ewbK+6iN0av05dWt6XZZru3xfCS
+FSxH0AU3GPr3MDilr1DCHtQw+vHq8rdf0fd/rmX/8urk9Eosm5pEJ6evf0DnZ7+cXaMuAhck
+EElxLSb6XU6mdAyoy1bt1genzD/jJojyVaKtg1pZkb95C1xqQUVhOYuhvYADCesp1OdVtpT8
+RkCF4i2iAwfKr+NcdjdS/zSmSdTGcg27dq3KbRefnQQt4yAuBSiz6uinQeBzWfYtuELHgiSA
+79O5eChYMo6jdimulHaLaAKfbTvxeva3oe21DDyUooyHcU7n4OCM0WlbuetBVusYKy3+zkZt
+EFMihmc7tg817FY2NJ1utBcbPjMukUQHlmVLPoZDzgDa9myIbIU48NbEAuNYANaYZ0/UKnRE
+ortWcIfE6ER9/qKua2uX5PuznlNaWpaR2K0bKE5Z2WrAWR3Ud2QQgm59zVTXpFldUmxTrgGC
+qusZisttnahhgDhMrcblPWgQ327KT1V8NZ+aA9ynAnueh9ckr1fcVkZVPJM3trh67Lcuuq8a
+gbS8u+y3zpe8UZ48e1anqVOU0VTNarAZSlXiJoSyNfJqDtwleIvj2yRBx1bPJvRT0K2Ktgrp
+7tn2KvM8G1Byu8Lb8mCak1mimNCqmG5LrPuGzhc5gCEQ1QqM0byAOzfKfodeUm7C+dR9JTzp
+CVFL2uJUIsX/mlWU+q0lWuFjNQUcM7KU88jjfTEX7Imvo2oSCO32fz0BtKw99HgzPyV851Gf
+ZZnZnmU90lDvoeM8EZ/tAzwA5R2GdjjFIOnh8zl7h8kclp8pRv7XD+Gg+zFCvm7eppkfc8wm
+0vF40zVoAYWGrYM0ne9/YXima+Fx52Q1VzZHYg/15V8Zgyl31ydeYMJ9Uy74yt11sgUsugi3
+DLFg82GDK7DNsqrp1B7aaSb1T6ZRu+n6yiHU/2b8ZFlm1rTXHDLtyX+w8/E8OpBPfR/TXpf0
+DvcnR4cH/WPaIy9ov98/6vajF/v04PlRDw9u/wYkx942cRwAAA==
